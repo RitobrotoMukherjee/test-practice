@@ -1,22 +1,20 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Awesome Books
-It's a project of Web Pack boiler plate
+It's a Jest test practice project
 
 # View Live
-- To view a demo [@click Here](https://ritobrotomukherjee.github.io/webpack-set-up/dist)
+- 
 
 ## Built With
 
-- HTML5
-- CSS3
 - JavaScript
-- Webpack
+- Jest
 
 ## Getting Started
 
 - NodeJs, npm needs to be installed in system
-- For local project set up, run ``` git clone https://github.com/RitobrotoMukherjee/webpack-set-up.git ```
+- For local project set up, run ``` git clone https://github.com/RitobrotoMukherjee/test-practice.git ```
 
 ## Install Linters
 
