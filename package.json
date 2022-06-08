@@ -1,0 +1,23 @@
+{
+  "name": "test-practice",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RitobrotoMukherjee/test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RitobrotoMukherjee/test-practice/issues"
+  },
+  "homepage": "https://github.com/RitobrotoMukherjee/test-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
